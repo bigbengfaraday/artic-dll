@@ -5,3 +5,5 @@ dlleri açabildiğimiz kadar açtık kodları anca bu kadar reverse engineering 
 release kısmından .zip şeklinde hepsini indirebilirsiniz (injectör yanında)
 
 - leaked by paranormal & m...
+
+**Video:** https://www.youtube.com/watch?v=3JM9GJWDFT0
